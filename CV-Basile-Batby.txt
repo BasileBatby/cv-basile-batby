@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <title>DAAAMMMNNN</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    ...
+    bonjour à tous
+    ...
+<ul>
+    <li>ligna uno</li>
+    <li>touzey ligne</li>
+    <ul>
+        <li>Lil touzey</li>
+        <li>Jeune touzey</li>
+        <ul>
+            <li>reloou le loup</li>
+            <li>carré</li>
+        </ul>
+    </ul>
+</ul>
+<img src="https://i.goopics.net/n72tht.jpg" alt="Image" width="100%">
+
+</body>
+
+</html>
