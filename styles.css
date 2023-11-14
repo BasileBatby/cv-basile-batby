@@ -81,3 +81,60 @@ img {
         width: 90%;
     }
 }
+h2 {
+    color: rgb(102, 102, 144);  
+  }
+
+  ul {
+    list-style-type: none; 
+}
+
+
+
+li::before {
+    content:"";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url(https://em-content.zobj.net/source/apple/354/backhand-index-pointing-down_1f447.png);
+    background-size: contain;
+    border-radius: 50%;
+    vertical-align: middle; 
+    
+}
+
+
+
+body {
+    font-family: Oswald;
+}
+
+h3 {
+    color: rgb(73, 73, 102);  
+  }
+
+  h1 {
+    color: rgb(87, 87, 129);  
+  }
+
+body {
+    background-color: #E9EFF2; 
+}
+
+ .section {
+            margin-bottom: 20px;
+        }
+
+        body {
+
+            line-height: 1.2;
+            color: rgb(74, 104, 106)
+            ;margin: 20px;
+        }
+
+        .header, .footer {
+            background-color: #CCDBE0;
+            padding: 10px;
+            text-align: center;
+        }
+
